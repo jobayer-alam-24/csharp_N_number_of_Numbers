@@ -1,0 +1,15 @@
+C:\Users\JOBAYER\OneDrive\Tài liệu\csharp_N_number_of_Numbers\bin\Debug\net8.0\csharp_N_number_of_Numbers.exe
+C:\Users\JOBAYER\OneDrive\Tài liệu\csharp_N_number_of_Numbers\bin\Debug\net8.0\csharp_N_number_of_Numbers.deps.json
+C:\Users\JOBAYER\OneDrive\Tài liệu\csharp_N_number_of_Numbers\bin\Debug\net8.0\csharp_N_number_of_Numbers.runtimeconfig.json
+C:\Users\JOBAYER\OneDrive\Tài liệu\csharp_N_number_of_Numbers\bin\Debug\net8.0\csharp_N_number_of_Numbers.dll
+C:\Users\JOBAYER\OneDrive\Tài liệu\csharp_N_number_of_Numbers\bin\Debug\net8.0\csharp_N_number_of_Numbers.pdb
+C:\Users\JOBAYER\OneDrive\Tài liệu\csharp_N_number_of_Numbers\obj\Debug\net8.0\csharp_N_number_of_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOBAYER\OneDrive\Tài liệu\csharp_N_number_of_Numbers\obj\Debug\net8.0\csharp_N_number_of_Numbers.AssemblyInfoInputs.cache
+C:\Users\JOBAYER\OneDrive\Tài liệu\csharp_N_number_of_Numbers\obj\Debug\net8.0\csharp_N_number_of_Numbers.AssemblyInfo.cs
+C:\Users\JOBAYER\OneDrive\Tài liệu\csharp_N_number_of_Numbers\obj\Debug\net8.0\csharp_N_number_of_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\JOBAYER\OneDrive\Tài liệu\csharp_N_number_of_Numbers\obj\Debug\net8.0\csharp_N_number_of_Numbers.sourcelink.json
+C:\Users\JOBAYER\OneDrive\Tài liệu\csharp_N_number_of_Numbers\obj\Debug\net8.0\csharp_N_number_of_Numbers.dll
+C:\Users\JOBAYER\OneDrive\Tài liệu\csharp_N_number_of_Numbers\obj\Debug\net8.0\refint\csharp_N_number_of_Numbers.dll
+C:\Users\JOBAYER\OneDrive\Tài liệu\csharp_N_number_of_Numbers\obj\Debug\net8.0\csharp_N_number_of_Numbers.pdb
+C:\Users\JOBAYER\OneDrive\Tài liệu\csharp_N_number_of_Numbers\obj\Debug\net8.0\csharp_N_number_of_Numbers.genruntimeconfig.cache
+C:\Users\JOBAYER\OneDrive\Tài liệu\csharp_N_number_of_Numbers\obj\Debug\net8.0\ref\csharp_N_number_of_Numbers.dll
